@@ -1,0 +1,51 @@
+name,gender,birthdate,genre,grammys
+"Michael Jackson",Male,08/29/1958,Pop,13
+"Stevie Wonder",Male,05/13/1950,R&B,19
+"Elvis Presley",Male,01/08/1935,Rock,3
+"Frank Sinatra",Male,12/12/1915,Jazz,11
+Prince,Male,06/07/1958,Rock,7
+"Bruno Mars",Male,10/08/1985,Pop,15
+"Louis Tomlinson",Male,12/24/1991,Pop,0
+"Justin Bieber",Male,03/01/1994,Pop,2
+Giveon,Male,02/21/1995,R&B,0
+"Ed Sheeran",Male,02/17/1991,Pop,4
+"Harry Styles",Male,02/01/1994,Pop,1
+"The Weeknd",Male,02/16/1990,R&B,4
+"Kanye West",Male,06/08/1977,Rap,21
+Jay-Z,Male,12/4/1969,Rap,24
+Eminem,Male,10/17/1972,Rap,15
+"Kendrick Lamar",Male,06/17/1987,Rap,14
+"Chris Brown",Male,05/05/1989,R&B,1
+Usher,Male,10/14/1978,R&B,8
+"John Legend",Male,12/28/1978,R&B,10
+"Lionel Richie",Male,06/20/1949,Soul,4
+"Elton John",Male,03/25/1947,"Rock Pop",6
+"Bruce Springsteen",Male,09/23/1949,Rock,20
+"Blake Shelton",Male,06/18/1976,Country,0
+"Chris Stapleton",Male,04/15/1978,Country,8
+"Luke Bryan",Male,07/17/1976,Country,0
+"Carrie Underwood",Female,03/10/1983,Country,8
+"Shania Twain",Female,08/28/1965,Country,5
+"Dolly Parton",Female,01/19/1946,Country,11
+"Kacey Musgraves",Female,08/21/1988,Country,6
+"Taylor Swift",Female,12/13/1989,Pop,11
+"Nicki Minaj",Female,12/08/1982,Rap,0
+"Cardi B",Female,10/11/1992,Rap,1
+"Megan Thee Stallion",Female,02/15/1995,Rap,3
+"Katy Perry",Female,10/25/1984,Pop,0
+"Bilie Eilish",Female,12/18/2001,Pop,7
+Beyonce,Female,09/04/1981,R&B,28
+"Mariah Carey",Female,03/27/1969,R&B,5
+"Selena Gomez",Female,07/22/1992,Pop,0
+"Ariana Grande",Female,06/26/1993,Pop,2
+"Dua Lipa",Female,08/22/1995,Disco-Pop,3
+"Alicia Keys",Female,01/25/1981,R&B,15
+"Ella Mai",Female,11/03/1994,R&B,1
+"Summer Walker",Female,04/11/1996,R&B,0
+Kehlani,Female,04/24/1995,R&B,0
+"Tina Turner",Female,11/26/1939,Rock,8
+"Gwen Stefani",Female,10/03/1969,Pop,3
+"Aretha Franklin",Female,03/25/1942,Soul,18
+"Diana Ross",Female,03/26/1944,Pop,0
+"Whitney Houston",Female,08/09/1963,R&B,6
+"Jennifer Hudson",Female,09/12/1981,R&B,2
